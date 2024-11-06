@@ -87,5 +87,4 @@ def compress_and_save_latents(model_class, model_path, img_folder, patch_size=10
         
         print(f"Saved compressed latent for {img_name} at {latent_file_path}")
 
-# Usage
 compress_and_save_latents(Auto_Encoder, 'checkpoint_epoch_7.pth', 'input_images', patch_size=100, latent_save_path='latents')
