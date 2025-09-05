@@ -77,7 +77,8 @@ trying a decompressed model to see what color range and transformations the mode
 Balancing between model and zfp, this model has very little ZFP noise, but the AE is approximating a lot and thus is still blurry
 <img width="659" height="482" alt="image" src="https://github.com/user-attachments/assets/1b02e7c9-35bb-4500-94a0-dd921eca0f52" />
 
-
+Increasing epochs on prev model arch, the model slowly learns to fix some color, still not a full run:
+<img width="1982" height="1012" alt="image" src="https://github.com/user-attachments/assets/2c646630-b9a0-401b-97ea-6f53586bfbb4" />
 
 
 
