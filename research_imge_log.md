@@ -26,7 +26,7 @@ Had a 1 color channel issue for a while where the model only learned green:
 Used 3 color channels, solved the issue, first 10x compression, which is currently the main upload:
 <img width="900" height="452" alt="Pasted image 20250203233213" src="https://github.com/user-attachments/assets/f029ab7b-47c6-4df4-aec1-701c5b25a880" />
 
-Attempted classic CV tests with the old model:
+Attempted classic CV tests with the old model: <br>
 <img width="680" height="373" alt="Pasted image 20250203234642" src="https://github.com/user-attachments/assets/4b3f9e50-b6d4-47f8-a278-d1d0c7b64400" />
 <img width="679" height="323" alt="Pasted image 20250203234701" src="https://github.com/user-attachments/assets/4d23c7d1-3596-4fd8-8fac-612d97c5299a" />
 
