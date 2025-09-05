@@ -69,10 +69,13 @@ The autoencoder also learns a different color distribution to RGB, it does not l
 High noise ZFP can reach 97x compression:
 <img width="1270" height="949" alt="Pasted image 20250905101205" src="https://github.com/user-attachments/assets/0ee4897e-3514-45e3-a874-31cdaa24d7df" />
 
-(9/5/25): trying a decompressed model to see what color range and transformations the model learns early in the training process, it appears to try to learns position and sharpness over color first
+(9/5/25)
 
+trying a decompressed model to see what color range and transformations the model learns early in the training process, it appears to try to learns position and sharpness over color first
 <img width="631" height="467" alt="image" src="https://github.com/user-attachments/assets/9cdbd351-9ab7-42e2-a05c-9de4c2af1bd0" />
 
+Balancing between model and zfp, this model has very little ZFP noise, but the AE is approximating a lot and thus is still blurry
+<img width="659" height="482" alt="image" src="https://github.com/user-attachments/assets/1b02e7c9-35bb-4500-94a0-dd921eca0f52" />
 
 
 
