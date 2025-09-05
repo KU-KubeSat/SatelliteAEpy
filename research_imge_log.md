@@ -85,7 +85,10 @@ A full run def improves color, but this model maxes out here:
 
 Trying to use Squeeze and excitation blocks like little MLPs to store information during compression like a sponge, get more detail info hopefully.
 
+Ended up making zfp very effective, similar quality though: 
+<img width="657" height="485" alt="image" src="https://github.com/user-attachments/assets/75411b1f-351e-48a1-9020-6c2cf558ab95" />
 
+Need to get some form of stronger info sink
 
 
 
