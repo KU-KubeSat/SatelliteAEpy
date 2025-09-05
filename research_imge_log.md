@@ -80,6 +80,10 @@ Balancing between model and zfp, this model has very little ZFP noise, but the A
 Increasing epochs on prev model arch, the model slowly learns to fix some color, still not a full run:  <br>
 <img width="1982" height="1012" alt="image" src="https://github.com/user-attachments/assets/2c646630-b9a0-401b-97ea-6f53586bfbb4" />
 
+A full run def improves color, but this model maxes out here:
+<img width="663" height="489" alt="image" src="https://github.com/user-attachments/assets/791c053b-c0ae-42be-8371-974835e92ef1" />
+
+Trying to use Squeeze and excitation blocks like little MLPs to store information during compression like a sponge, get more detail info hopefully.
 
 
 
